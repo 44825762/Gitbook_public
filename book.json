@@ -1,0 +1,19 @@
+{
+   "title": "算法整理",
+   "description": "计算机面试，LeetCode算法整理",
+   "plugins":[ 
+      "anchors",
+      "search-pro",
+      "back-to-top-button",
+      "livereload",
+      "-expandable-chapters",
+      "chapter-fold",
+      "splitter",
+      "hide-element"
+   ],
+   "pluginsConfig": {
+      "hide-element": {
+          "elements": [".gitbook-link"]
+      }
+  }
+}
