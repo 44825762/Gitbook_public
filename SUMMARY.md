@@ -1,8 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
 
 ## 第一章 算法基础
+* [Introduction](README.md)
 * [算法基础](basic/algo/README.md)
     * [数组](basic/algo/Array.md)
     * [栈 队列]()
