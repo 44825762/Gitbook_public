@@ -16,7 +16,8 @@
       "github-buttons",
       "alerts",
       "sharing",
-       "sitemap"
+      "sitemap",
+      "robots-txt"
       
 
    ],
@@ -43,6 +44,9 @@
     },
       "sitemap": {
           "hostname": "https://github.com/44825762/Gitbook_public"
+      },
+      "robots-txt": {
+          "path": "./robots.txt"
       }
   }
 }
