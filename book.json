@@ -10,7 +10,7 @@
       "chapter-fold",
       "splitter",
       "hide-element",
-      "pageview-count",
+      "-pageview-count",
       "tbfed-pagefooter",
       "katex",
       "github-buttons",
