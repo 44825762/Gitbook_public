@@ -4,5 +4,5 @@
 ##### 链接：https://44825762.github.io/Gitbook_public/
 
 ---
-#### 作者：GUORONG LI、BINGPENG WANG
+#### Contributor：GUORONG LI、BINGPENG WANG
 ---
