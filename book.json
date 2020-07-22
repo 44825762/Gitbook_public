@@ -15,7 +15,8 @@
       "katex",
       "github-buttons",
       "alerts",
-      "sharing"
+      "sharing",
+       "sitemap"
       
 
    ],
@@ -29,7 +30,7 @@
           "elements": [".gitbook-link"]
       },
      "github-buttons": {
-      "repo": "44825762/Review",
+      "repo": "44825762/Gitbook_public",
       "types": [
           "star",
           "watch",
@@ -39,6 +40,9 @@
       },
       "theme-default": {
         "showLevel": true
-    }
+    },
+      "sitemap": {
+          "hostname": "https://github.com/44825762/Gitbook_public"
+      }
   }
 }
