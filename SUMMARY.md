@@ -54,3 +54,4 @@
 
 ## 杂项 英文写作
 * [写作 - 连接词](basic/Writing/English_writing.md)
+* [爱丁堡](basic/Writing/Tour.md)
