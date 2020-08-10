@@ -1,4 +1,3 @@
-
 ### 爱丁堡第一天
 
 爱丁堡城堡 > 苏格兰威士忌体验中心 > 皇家英里大道 > 荷里路德宫 > 卡尔顿山（找个天气好的天）
@@ -44,4 +43,56 @@ Lothian Bus长下面这样
 - 车上有工作人员，但工作人员的主要作用是查票，逃票会罚款￡10
 
 ![机器](https://img.yinglunka.com/month_2_1511/15112614275ff4340834753e70.jpg)
+
+- - - 
+
+### 周杰伦打卡地点
+* 城堡有两处 goolemap：Edinburgh Castle （要票）
+    MV的开头取景地在4号景点的院子里有一个高处的景观平台处。
+    另外一处景点在入口一进门2号长阶梯上去就能看到，一个小的祈祷厅门口就是。
+    ![1](http://5b0988e595225.cdn.sohucs.com/images/20180706/f1c77ce0644d4929b400d1a24eb858ed.jpeg)
+    ![1](http://5b0988e595225.cdn.sohucs.com/images/20180706/58b32124ad3c44abb1e98a1b872c1770.jpeg)
+
+* 卡尔顿山 goolemap：Calton Hill
+    杰伦应该是日出的时候去拍的MV，
+    ![1](http://5b0988e595225.cdn.sohucs.com/images/20180706/abf3485533d64b8cb73ee1c2beec0e24.jpeg)
+    ![2](http://5b0988e595225.cdn.sohucs.com/images/20180706/43fb32aac7104357998d1ce7085301e5.jpeg)
+
+* 皇家英里 goolemap：Royal Mile
+    值得说一下的是这张图片是站在马路中间拍的，会有车来来往往，大家想要去拍的话一定要注意安全哦。
+    ![1](http://5b0988e595225.cdn.sohucs.com/images/20180706/b3fbf131c9ab40ea8f56f7d2ea086e0e.jpeg)
+    
+* Waverley火车站
+    
+    ![2](http://5b0988e595225.cdn.sohucs.com/images/20180706/f223ce37009d43c69539b74e072f5d4c.jpeg)
+    从Waverley出站走way out1 ：princes street那个出口，要上几个楼梯到达地面，然后转身就能看见north bridge了。
+    正对着有一个透明的升降电梯，旁边就是拍这张照片的最佳位置了。
+
+* 福斯大桥 goolemap：Maid of the Forth
+    这个景点的话稍微有些远，需要从市里的火车站（Waverley／Haymarket）坐scotrail大概20分钟才能到达。
+    ![1](http://5b0988e595225.cdn.sohucs.com/images/20180706/9a962dfa16e44d598fc9e0f7aee4d53b.jpeg)
+    ![2](http://5b0988e595225.cdn.sohucs.com/images/20180706/0bc7679d1d094dd9b0e119b0959ed8cd.jpeg)
+    ![3](http://5b0988e595225.cdn.sohucs.com/images/20180706/dc8e9991f4d84c7ba68594992a1e1fe3.jpeg)
+    ![4](http://5b0988e595225.cdn.sohucs.com/images/20180706/2373ff3163df4cb39251c1b6870db312.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
