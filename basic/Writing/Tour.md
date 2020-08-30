@@ -8,7 +8,7 @@ The project will be introduced in four parts, which are the introduction, contri
 
 First of all, introduction.
 
-Due to the COVID-19, most people wear a face mask when they go outside, but the face mask makes the accuracy of the traditional facial recognition algorithms declined substantially because masked images usually caused that algorithm to be unable to get the feature from a face. Besides, the fact of lacking masked face dataset makes the task of recognizing people by their facial components more difficult. This project aims to explore the effect of only encoding single facial components as features on the capability of LBPH facial recognition algorithm to identify face images.
+Due to the COVID-19, most people wear a face mask when they go outside, but the face mask makes the accuracy of the traditional facial recognition algorithms declined substantially because masked images usually caused that algorithm to be unable to get the feature from a face. Besides, the fact of lacking masked faces dataset makes the task of recognizing people by their facial components more difficult. This project aims to explore the effect of only encoding single facial components as features on the capability of LBPH facial recognition to identify face images.
 
 (进入contribution)
 
@@ -38,7 +38,7 @@ This part shows how we design the experiment. There are one control group and fo
 (contributions - 4 - evaluate the experiment)
 
 The contribution four is to show the result and evaluate the experiment.
-Here is the result of the experiment. The evaluation method combines the characteristic of the LBPH algorithm, the accuracy of each classifier, and the similarity and distance between images within the same dataset. The approach of the LBPH algorithm to check whether the images matched something in the dataset is to compare the histogram of an input image and the histograms of images in the dataset. So, a large distance means a significant difference, and it may make the LBPH model match nothing. Here I just pick jaw and nose as an example. The nose's accuracy rate is 80.92%, the similarity is 84.96%, and the distance is 38.5. It means that there are 84.96% of pixels in images are the same on average.
+Here is the result of the experiment. The evaluation method combines the characteristic of the LBPH algorithm, the accuracy of each classifier, and the similarity and distance between images within the same dataset. The approach of the LBPH algorithm to check whether the images matched something in the dataset is to compare the histogram of an input image and the histograms of images in the dataset. So, a large distance means a significant difference between images and it may make the LBPH model match nothing. Here I just pick jaw and nose as an example. The nose's accuracy rate is 80.92%, the similarity is 84.96%, and the distance is 38.5. It means that there are 84.96% of pixels in images are the same on average.
 Meanwhile, the difference between the different pixels in images is not changed much. Combining this property and the characteristic of the LBPH algorithm, the algorithm can catch the tiny difference and do classification correctly. Therefore, the nose group can gain high accuracy. However, the Jaw group has a low similarity and high distance. It means the content of images is not similar, and the content has a big difference. Hence, the difference between images is too big for the LBPH algorithm to catch. So, we can see that the jaw group has the lowest accuracy.
 
 
