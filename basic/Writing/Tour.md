@@ -2,11 +2,11 @@ Hello, professors. I am GUORONG LI, and my supervisor is Dr. Raphael Jeffery. It
 
 （进入目录）
 
-The project will be introduced in four parts, which are the introduction, contributions, demonstration, and conclusion.
+The project will be introduced in four parts, which are the scope, contributions, demonstration, and conclusion.
 
 (进入intro)
 
-First of all, introduction.
+First of all, scope.
 
 After the COVID-19 happened, identity masked people become a crucial problem, and it can be changed to the task that recognizes people by their facial components. This project aims to explore the effect of only encoding single facial components as features on the capability of LBPH facial recognition to identify face images.
 
