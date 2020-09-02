@@ -8,7 +8,7 @@ The project will be introduced in four parts, which are the scope, contributions
 
 First of all, scope.
 
-After the COVID-19 happened, identity masked people become a crucial problem, and it can be changed to the task that recognizes people by their facial components. This project aims to explore the effect of only encoding single facial components as features on the capability of LBPH facial recognition to identify face images.
+After the COVID-19 happened, identity masked people become a crucial problem, and it can be changed to the task that recognizes people by their facial components. This project aims to explore the effect of only encoding single facial components as features on the capability of LBPH facial recognition algorithm to identify face images.
 
 
 (进入contribution)
