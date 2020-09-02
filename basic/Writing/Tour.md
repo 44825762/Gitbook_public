@@ -1,4 +1,4 @@
-Hello, professors. I am GUORONG LI, and my supervisor is Dr. Jeffery Raphael. It is my great honor to participate in the project presentation. My project is to explore the Effect of Facial Partitioning Method on Facial Recognition.  
+Hello, professors. I am GUORONG LI, and my supervisor is Dr. Raphael Jeffery. It is my great honor to participate in the project presentation. My project is to explore the Effect of Facial Partitioning Method on Facial Recognition.  
 
 （进入目录）
 
