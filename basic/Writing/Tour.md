@@ -40,7 +40,11 @@ Contribution three is to design and apply the controlled experiment. There are o
 (contributions - 4 - evaluate the experiment)
 
 The contribution four is to show the result and evaluate the experiment.
-Here is the result of the experiment. The evaluation method combines the characteristic of the LBPH algorithm, the accuracy of each classifier, and the similarity and distance between images within the same dataset. The approach of the LBPH algorithm to check whether the images matched something or not is to compare the histogram of an input image and the histograms of images in the dataset. So, a large distance means a significant difference between images and it may make the LBPH algorithm match nothing. Here I just pick jaw and nose as an example. The nose's accuracy rate is 80.92%, the similarity is 84.96%, and the distance is 38.5. It means that there are 84.96% of pixels in images are the same on average.
+
+Here is the result of the experiment. The evaluation method combines the characteristic of the LBPH algorithm, the accuracy of each classifier, and the similarity and distance between images within the same dataset. The approach of the LBPH algorithm to check whether the input images matched something or not is to compare the histogram of the input image and the histograms of images in the dataset. Besides, a large distance means a significant difference between images and it may make the LBPH algorithm match nothing. 
+
+Here I just pick jaw and nose as an example. The nose's accuracy rate is 80.92%, the similarity is 84.96%, and the distance is 38.5. It means that there are 84.96% of pixels in images are the same on average.
+
 Meanwhile, the difference between the different pixels in images is not changed much. Combining this property and the characteristic of the LBPH algorithm, the algorithm can catch the tiny difference and do classification correctly. Therefore, the nose group can gain high accuracy. However, the Jaw group has a low similarity and high distance. It means the content of images is not similar, and the content has a big difference. Hence, the difference between images is too big for the LBPH algorithm to catch. So, we can see that the jaw group has the lowest accuracy.
 
 
@@ -48,7 +52,7 @@ Meanwhile, the difference between the different pixels in images is not changed 
 
 Then, the demonstration. 
 
-This project can help people to recognize people by their facial components. Here, I put my images in AT&T and apply the method proposed in this project to test whether it can recognize me using single facial component. The result is shown in the video. Only the jaw group is misclassified, and all the other facial component groups are classified correctly.
+This project can help people to recognize people by their facial components. Here, I put my images in AT&T and apply the method proposed in this project to test whether it can recognize me using single facial component. The result is shown in the video. Only the jaw group is misclassified, and all the other facial component groups recognized me correctly.
 
 
 
