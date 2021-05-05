@@ -3,5 +3,6 @@
 <url> <loc>https://github.com/./</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://github.com/SLAM/SLAM_1.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://github.com/Face_RC/FC_1.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/Camera/Camera.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://github.com/SLAM/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
